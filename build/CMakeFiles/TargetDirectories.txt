@@ -1,0 +1,3 @@
+/home/vboxuser/Workspace/CppPractice/CppPractice/build/CMakeFiles/test_lambdaexp.dir
+/home/vboxuser/Workspace/CppPractice/CppPractice/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Workspace/CppPractice/CppPractice/build/CMakeFiles/rebuild_cache.dir
